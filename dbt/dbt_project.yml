@@ -1,6 +1,0 @@
-# dbt_project.yml
-name:
-version:
-...
-dbt-cloud:
-    project-id: 70471823554401
